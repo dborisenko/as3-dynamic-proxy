@@ -1,12 +1,9 @@
 package com.dbrsn.utils.proxy
 {
-	import com.dbrsn.utils.proxy.SourceClass;
-
 	import flash.events.ErrorEvent;
 	import flash.events.Event;
 	import flash.events.IOErrorEvent;
 
-	import org.flexunit.asserts.assertFalse;
 	import org.flexunit.asserts.assertTrue;
 
 	import org.flexunit.asserts.fail;

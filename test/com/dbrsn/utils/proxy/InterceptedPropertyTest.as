@@ -4,7 +4,6 @@ package com.dbrsn.utils.proxy
 	import flash.events.Event;
 	import flash.events.IOErrorEvent;
 
-	import org.flexunit.asserts.assertFalse;
 	import org.flexunit.asserts.assertTrue;
 
 	import org.flexunit.asserts.fail;
