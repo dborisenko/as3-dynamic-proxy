@@ -6,7 +6,7 @@ Proxeing is configured by different types of interceptors.
 
 # Examples #
 ## Intercept the whole class by another class ##
-`
+```actionscript
 var proxyHolder:ProxyHolder = new ProxyHolder();
 
 // ProxyClass is dynamic proxy for SourceClass
@@ -28,10 +28,10 @@ function onProxyComplete(event:Event):void
   // And method is called from ProxyClass
   source.addPrefixToProperty1();
 }
-`
+```
 
 ## Intercept specified method by other method ##
-`
+```
 var proxyHolder:ProxyHolder = new ProxyHolder();
 
 var proxy:ProxyClass = new ProxyClass();
@@ -52,4 +52,4 @@ function onProxyComplete(event:Event):void
   source.property1 = TEST_STRING;
   trace(source.property1);
 }
-`
+```
