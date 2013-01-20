@@ -31,7 +31,7 @@ function onProxyComplete(event:Event):void
 ```
 
 ## Intercept specified method by other method ##
-```
+```actionscript
 var proxyHolder:ProxyHolder = new ProxyHolder();
 
 var proxy:ProxyClass = new ProxyClass();
