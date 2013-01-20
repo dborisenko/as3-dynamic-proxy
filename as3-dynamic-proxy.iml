@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="as3-dynamic-proxy">
     <configurations>
-      <configuration name="as3-dynamic-proxy" target-platform="Desktop" pure-as="true" output-type="Library" output-file="as3-dynamic-proxy.swc" output-folder="$MODULE_DIR$/out/production/as3-dynamic-proxy">
+      <configuration name="as3-dynamic-proxy" target-platform="Desktop" pure-as="true" output-type="Library" output-file="as3-dynamic-proxy.swc" output-folder="$MODULE_DIR$/bin">
         <dependencies>
           <entries>
             <entry library-id="1395624b-0212-4db6-9df9-e9761aa29b68">
