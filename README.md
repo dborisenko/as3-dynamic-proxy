@@ -1,4 +1,4 @@
-as3-dynamic-proxy
+Dynamic Proxy for ActionScript 3.0
 =================
 
 Dynamic proxy allows to intercept class source behaviour by proxy, which doesn't extend source class. 
